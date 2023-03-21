@@ -1,6 +1,16 @@
 # AWS-Cloud-Practitioner-Journey
-This repository contains study materials and resources for the AWS Cloud Practitioner certification. 
+This repository contains titbit about my AWS Certified Cloud Practitioner journey and study resources for the AWS Cloud Practitioner certification. 
 The AWS Certified Cloud Practitioner certification is an entry-level certification that validates a candidate's overall understanding of the AWS Cloud.
+
+## Certificate
+
+![Certificate](https://github.com/shubh0614/AWS-Cloud-Practitioner-Journey/blob/main/My%20Certificate/Certificate.jpeg)
+
+
+## Marks Report
+![Marks Report](https://github.com/shubh0614/AWS-Cloud-Practitioner-Journey/blob/main/My%20Certificate/Marks%20Report.jpeg)
+
+
 
 ## Exam Overview
 The exam validates an examinee’s ability to:
