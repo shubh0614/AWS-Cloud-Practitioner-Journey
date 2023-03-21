@@ -68,6 +68,9 @@ To prepare for the AWS Certified Cloud Practitioner exam, it is recommended that
 
 - [AWS Services-Final revision](https://github.com/shubh0614/AWS-Cloud-Practitioner-Journey/blob/main/My%20Revision%20Notes/AWS%20Services.pdf) 
 
+*Download pdf if 'unable to render rich display' error occurs.*
+
+
 ## Contribution
 Contributions to this repository are welcome! If you find a helpful resource or would like to add something to the repository, feel free to create a pull request.
 
