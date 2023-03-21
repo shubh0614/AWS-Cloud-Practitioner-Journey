@@ -87,5 +87,3 @@ Contributions to this repository are welcome! If you find a helpful resource or 
 ## Conclusion
 Becoming AWS Cloud Practitioner certified is a great way to demonstrate your knowledge of the AWS Cloud and foundational cloud computing concepts. This repository provides resources to help you prepare for the exam and become certified. Good luck on your journey to becoming AWS Certified!
 
-## Disclaimer
-**This repository is not affiliated with or endorsed by AWS. All content in this repository is provided for informational purposes only and should not be relied upon as the sole basis for making decisions regarding AWS services. It is recommended that you refer to official AWS documentation and seek the advice of certified AWS professionals when making decisions regarding AWS services.**
