@@ -64,9 +64,9 @@ To prepare for the AWS Certified Cloud Practitioner exam, it is recommended that
 
 ## My Notes
 
-- [AWS Cloud Fundamentals-Final revision]() 
+- [AWS Cloud Basics-Final revision](https://github.com/shubh0614/AWS-Cloud-Practitioner-Journey/blob/main/My%20Revision%20Notes/Aws%20Basics.pdf) 
 
-- [AWS Services-Final revision]() 
+- [AWS Services-Final revision](https://github.com/shubh0614/AWS-Cloud-Practitioner-Journey/blob/main/My%20Revision%20Notes/AWS%20Services.pdf) 
 
 ## Contribution
 Contributions to this repository are welcome! If you find a helpful resource or would like to add something to the repository, feel free to create a pull request.
