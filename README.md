@@ -7,7 +7,7 @@ The AWS Certified Cloud Practitioner certification is an entry-level certificati
 ![Certificate](https://github.com/shubh0614/AWS-Cloud-Practitioner-Journey/blob/main/My%20Certificate/Certificate.jpeg)
 
 
-## Marks Report
+## Exam Score Report
 ![Marks Report](https://github.com/shubh0614/AWS-Cloud-Practitioner-Journey/blob/main/My%20Certificate/Marks%20Report.jpeg)
 
 
